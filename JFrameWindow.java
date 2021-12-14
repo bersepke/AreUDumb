@@ -47,7 +47,7 @@ public class JFrameWindow {
             public void actionPerformed(ActionEvent ae) {
                 
             	mTextField.setBounds(0,100,300,50);	
-                mTextField.setText("I knew it! :3");
+                mTextField.setText("I knew it");
                 mYesButton.setVisible(false);
                 mNoButton.setVisible(false);
                 startCountDown();
